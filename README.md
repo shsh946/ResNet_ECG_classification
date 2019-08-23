@@ -12,7 +12,7 @@ Training with MITBIH dataset:
     ‘L’ : Left bundle branch block beat
     '[]': Atrial fibrillation
 
-Every data is a pulse with its label contain 512 sample points before and after, so there will be 1024 points in it.
+Each data is a pulse with its label contain 512 sample points before and after, so there will be 1024 points in it.
 
 - Python 3.7
 - Pytorch 1.2(stable)
